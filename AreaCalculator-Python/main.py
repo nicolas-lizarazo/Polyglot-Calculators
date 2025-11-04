@@ -41,7 +41,7 @@ def calculator():
                     continue
                 area = math.pi * (radius ** 2)
                 print("\n--- Result ---")
-                print(f"The area of a circle with radius {radius} is: {area:,.4f}")
+                print(f"The area of a circle with radius {radius:,.12g} is: {area:,.12g}")
                 print("-" * 25)
 
             elif choice == '2':
@@ -53,7 +53,7 @@ def calculator():
                     continue
                 area = length * width
                 print("\n--- Result ---")
-                print(f"The area of a {length}x{width} rectangle is: {area:,.4f}")
+                print(f"The area of a {length}x{width} rectangle is: {area:,.12g}")
                 print("-" * 25)
                 
             elif choice == '3':
@@ -62,7 +62,7 @@ def calculator():
                     continue
                 area = side ** 2
                 print("\n--- Result ---")
-                print(f"The area of a {side}x{side} square is: {area:,.4f}")
+                print(f"The area of a {side}x{side} square is: {area:,.12g}")
                 print("-" * 25)
 
             elif choice == '4':
@@ -74,7 +74,7 @@ def calculator():
                     continue
                 area = 0.5 * base * height
                 print("\n--- Result ---")
-                print(f"The area of the triangle is: {area:,.4f}")
+                print(f"The area of the triangle is: {area:,.12g}")
                 print("-" * 25)
 
             else:

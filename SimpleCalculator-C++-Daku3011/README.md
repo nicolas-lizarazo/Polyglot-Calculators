@@ -27,7 +27,7 @@ g++ main.cpp -o calculator
 ```
 
 2. Run the executable:
-```bash
+```
 ./calculator
 ```
 

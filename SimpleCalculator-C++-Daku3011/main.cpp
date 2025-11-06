@@ -11,7 +11,7 @@ int main() {
     cout << "Enter an operator (+, -, *, /): ";
     cin >> op; //Read the operator from user
 
-    int result; //Variable to hold the result
+    int result; 
 
     switch(op) {
         // ---- Addition ----

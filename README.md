@@ -47,7 +47,7 @@ If you like this initiative, **give it a ⭐** and help make this the ultimate o
 
 ## 🧰 Current Calculators
 
-Current Unique Contributor Amount is **36**!
+Current Unique Contributor Amount is **39**!
 
 
 | Calculator Name | Programming Language | Contributors |
@@ -107,6 +107,7 @@ Current Unique Contributor Amount is **36**!
 | `SimpleCalculatorCLI-Python-kInNoVaIDa` | Python | [@kInNoVaIDa](https://github.com/kInNoVaIDa) |
 | `SimpleCalculatorCLI-Python-wwohyzzh` | Python | [@wwohyzzh](https://github.com/wwohyzzh) |
 | `SimpleCalculatorGUI-Python-Avnoor000` | Python | [@Avnoor000](https://github.com/Avnoor000) |
+| `SimpleCalculatorGUI-Python-ASKotze` | Python | [@ASKotze](https://github.com/ASKotze) |
 | `SimpleCalculatorCLI-Java-yummyash` | Java | [@yummyash](https://github.com/yummyash) / [@B3rou](https://github.com/B3rou) (README.md file)|
 | `SimpleCalculatorCLI-Java-Perouvianoss` | Java | [@Perouvianoss](https://github.com/Perouvianoss) |
 | `SimpleCalculatorCLI-Java-AlexandrAnatoliev` | Java | [@AlexandrAnatoliev](https://github.com/AlexandrAnatoliev) |

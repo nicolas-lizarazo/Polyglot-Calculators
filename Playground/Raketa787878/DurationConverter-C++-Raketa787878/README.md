@@ -1,5 +1,5 @@
 # Description
-This is a duration converter, writed in C++.
+This is a duration converter, written in C++.
 It provides conversion to:
 - Seconds, sec
 - Minutes, min

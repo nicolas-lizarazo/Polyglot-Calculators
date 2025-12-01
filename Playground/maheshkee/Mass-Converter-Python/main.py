@@ -8,6 +8,7 @@ units_list = ['gram', 'kilogram', 'pound', 'ounce']
 source = source.lower()
 if source not in units_list:
     print("please enter a valid source unit")
+    exit()
 target = input("Enter the target unit of conversion: ")
 target = target.lower()
 if target not in units_list:

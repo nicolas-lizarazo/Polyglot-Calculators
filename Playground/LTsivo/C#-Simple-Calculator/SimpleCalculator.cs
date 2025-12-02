@@ -30,7 +30,7 @@ class SimpleCalculator
             try // Try-catch block to handle invalid input
             {
                 // Ask the user for the first number
-                Console.Write("Enter first number (can also do 2,3  5,6 etc): ");
+                Console.Write("Enter first number (can also do 2.3  5.6 etc): ");
                 num1 = Convert.ToDouble(Console.ReadLine());
 
                 // Ask the user for the operator

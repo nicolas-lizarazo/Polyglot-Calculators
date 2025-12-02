@@ -1,8 +1,8 @@
 /**
-* Enum representation supported cooking measures for console output.
+* Enum representation of common cooking measures with conversation to milliliters.
 *
 * @version  0.1.0
-* @since    1.12.2025
+* @since    2.12.2025
 * @author   AlexandrAnatoliev
 */
 public enum Measures {

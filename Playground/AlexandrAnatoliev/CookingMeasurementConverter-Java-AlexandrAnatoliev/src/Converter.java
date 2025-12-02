@@ -12,7 +12,7 @@
 *   Tablespoons -> tbsp
 *   Teaspoons -> tsp
 * Example use:
-*   java -cp bin/ Converter 1 cup tbsp");
+*   java -cp bin/ Converter 1 cup tbsp
 *
 * @version  0.1.0
 * @since    2.12.2025
@@ -73,13 +73,13 @@ public class Converter {
         try {
             return Measures.valueOf(input.toUpperCase());
         } catch (IllegalArgumentException e) {
-            System.out.println(Colors.RED.apply("\nERROR: " + e.getMessage()));
+            System.out.println(Colors.RED.apply("ERROR: " + e.getMessage()));
             return Measures.ERROR;
         }
     }
 
     /**
-    * Prints right input examples
+    * Prints usage instructions
     */
     public static void printExample() {
         System.out.println(Colors.YELLOW.apply("\nInput format:"));

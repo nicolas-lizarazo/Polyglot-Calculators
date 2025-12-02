@@ -2,7 +2,7 @@
 * Enum representation supported ANSI color codes for console output.
 *
 * @version  0.1.0
-* @since    1.12.2025
+* @since    2.12.2025
 * @author   AlexandrAnatoliev
 */
  public enum Colors {
@@ -25,6 +25,9 @@
 
     /** 
     * Convenience method to colorize text
+    * 
+    * @param text The text to colorize
+    * @return The colorized string 
     */
     public String apply(String text) {
         return this + text + RESET;
